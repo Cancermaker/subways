@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+
+}
+#wrap > header{
+width: 100px;
+height: 400px;
+background-color: red;
+}
+#wrap > header > #logo{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+
+#wrap > header > #logo{
+    width: 100%;
+    height: 200px;
+    background-color: green;
+}
+#wrap > section{
+width: 100%;
+height: 600px;
+background-color: yellow;
+}
+#wrap > footer{
+width: 100%;
+height: 200px;
+background-color: violet;
+}
